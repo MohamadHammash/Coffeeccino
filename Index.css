@@ -1,0 +1,40 @@
+        .row {
+            border: 1px solid silver;
+        }
+        
+        .container {
+            margin-top: 30px;
+        }
+        
+        .CardImage {
+            width: 500px;
+        }
+        
+        .CardDivs {
+            text-align: center;
+        }
+        
+        .CardHeaders {
+            color: #654321;
+        }
+        
+        .CardContents {
+            color: peru;
+        }
+        
+        .footerId {
+            text-align: center;
+            margin-top: 10px;
+            padding-top: 10px;
+            margin-bottom: 0%;
+            padding-bottom: 10px;
+        }
+        
+        .FooterPar {
+            color: darkolivegreen;
+            font-family: cursive;
+        }
+        
+        .Dinline {
+            text-align: right;
+        }

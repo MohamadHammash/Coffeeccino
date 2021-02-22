@@ -1,0 +1,28 @@
+.footerId {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 0%;
+    padding-bottom: 10px;
+}
+
+.FooterPar {
+    color: darkolivegreen;
+    font-family: cursive;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.CardDivs {
+    text-align: center;
+}
+
+.CardHeaders {
+    color: #654321;
+}
+
+.CardContents {
+    color: peru;
+}
