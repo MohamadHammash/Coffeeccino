@@ -1,3 +1,21 @@
+/* @media (min-width: 576px) {
+    .container {
+        display: block;
+    }
+    .Headers {
+        display: block;
+    }
+    .CardHeaders {
+        display: block;
+    }
+    .CardContents {
+        display: block;
+    }
+    .CardDivs {
+        display: block;
+    }
+} */
+
 .footerId {
     text-align: center;
     margin-top: 10px;
