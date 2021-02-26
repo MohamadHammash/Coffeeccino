@@ -50,3 +50,7 @@
     padding: 10px;
     color: white;
 }
+
+.Bigger {
+    min-inline-size: 125%
+}
